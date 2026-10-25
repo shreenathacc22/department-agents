@@ -1,0 +1,8 @@
+[
+  {"id": "KB-1", "title": "Reset your password", "body": "Open the sign-in page, choose Forgot password, and follow the email link. The link lasts 15 minutes. If no email arrives within five minutes, open an access ticket; IT never asks for your current password."},
+  {"id": "KB-2", "title": "Connect to the VPN", "body": "Install the VPN client from the software portal, sign in with your company account, and pick the nearest gateway. If it says certificate expired, update the client first."},
+  {"id": "KB-3", "title": "Request a new laptop or replacement", "body": "Laptops are ordered by IT, not expensed. Open a hardware ticket with the model you need and why. Standard replacement cycle is four years."},
+  {"id": "KB-4", "title": "Report a phishing email", "body": "Do not click links. Use the Report button in the mail client, or forward the message as an attachment to the security mailbox, then delete it. If you clicked, open a security ticket at once."},
+  {"id": "KB-5", "title": "Get access to a shared drive or repo", "body": "Access is granted by the owner of the resource. Open an access ticket naming the resource and the owner; IT applies it once the owner approves."},
+  {"id": "KB-6", "title": "Printer setup", "body": "Add the office printer from the printers list in system settings. Drivers install automatically on the office network."}
+]

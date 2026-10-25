@@ -1,0 +1,16 @@
+[project]
+name = "deptagents"
+version = "0.1.0"
+description = "One AI agent per department (HR, Finance, IT) with a router in front, built on the Claude API."
+requires-python = ">=3.12"
+dependencies = ["anthropic>=2.3"]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+deptagents = "deptagents.cli:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

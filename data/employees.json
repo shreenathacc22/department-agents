@@ -1,0 +1,7 @@
+{
+  "E-1001": {"role": "software engineer", "department": "engineering", "leave": {"annual": 14, "sick": 8, "parental": 0}},
+  "E-1002": {"role": "account executive", "department": "sales", "leave": {"annual": 6, "sick": 10, "parental": 0}},
+  "E-1003": {"role": "marketing manager", "department": "marketing", "leave": {"annual": 20, "sick": 5, "parental": 0}},
+  "E-1004": {"role": "support specialist", "department": "operations", "leave": {"annual": 2, "sick": 9, "parental": 90}},
+  "E-1005": {"role": "data analyst", "department": "engineering", "leave": {"annual": 11, "sick": 3, "parental": 0}}
+}

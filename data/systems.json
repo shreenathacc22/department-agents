@@ -1,0 +1,7 @@
+{
+  "email": {"status": "ok", "note": "No incidents today."},
+  "vpn": {"status": "degraded", "note": "The east gateway is slow since 09:10 UTC. Use the west gateway for now."},
+  "wiki": {"status": "ok", "note": ""},
+  "ci": {"status": "ok", "note": "Queue times normal."},
+  "laptops": {"status": "ok", "note": "Lead time for new orders is 10 working days."}
+}

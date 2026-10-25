@@ -1,0 +1,6 @@
+{
+  "engineering": {"quarter": "2026-Q4", "budget": 48000, "spent": 31250.5},
+  "sales": {"quarter": "2026-Q4", "budget": 36000, "spent": 29800},
+  "marketing": {"quarter": "2026-Q4", "budget": 22000, "spent": 9140},
+  "operations": {"quarter": "2026-Q4", "budget": 15000, "spent": 12990}
+}

@@ -1,0 +1,20 @@
+{
+  "hr": {
+    "leave": "Annual leave accrues at 1.75 days a month, capped at 30 days. Sick leave is 10 days a year. Requests go to the line manager and are pending until approved. Unpaid leave needs the HR lead.",
+    "remote": "Anyone may work remotely up to three days a week. Full remote needs a written agreement with the manager, reviewed every six months.",
+    "onboarding": "New starters get a laptop, accounts and a buddy on day one, a 30-day check-in with the manager and a 90-day review.",
+    "conduct": "Treat people with respect. Concerns go to the manager or the HR lead; anonymous reports go through the ethics mailbox. Retaliation is a dismissal matter.",
+    "expenses": "Expense claims are a finance matter. Ask the finance assistant."
+  },
+  "finance": {
+    "limits": {"travel": 800, "meals": 60, "equipment": 500, "software": 200, "training": 1000, "other": 100},
+    "rules": {
+      "travel": "Book through the travel tool where possible. Economy flights, standard hotel rooms. Receipts required above 25.",
+      "meals": "Per person, per day, while travelling or hosting a customer. No alcohol.",
+      "equipment": "Peripherals and accessories only. Laptops and phones are ordered by IT, not expensed.",
+      "software": "Monthly subscriptions need a note of what it replaces. Annual plans go through procurement.",
+      "training": "Courses and conferences related to the current role. Approved by the manager beforehand.",
+      "default": "Receipts required above 25. Submit within 30 days. Claims over the category limit need the finance lead."
+    }
+  }
+}
